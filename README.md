@@ -73,7 +73,11 @@ python .\nc2ctl\nc2ctl.py --output json agent list --status online
 
 ![1](./images/1.png)
 
-![1](./images/2.png)![1](./images/3.png)![1](./images/end.png)
+![2](./images/2.png)
+
+![3](./images/3.png)
+
+![4](./images/end.png)
 
 
 
