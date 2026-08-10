@@ -71,13 +71,13 @@ python .\nc2ctl\nc2ctl.py --output json agent list --status online
 
 ## 管理界面
 
-![1](images/1.png)
+<img width="1099" height="396" alt="1" src="https://github.com/user-attachments/assets/97fc9f98-bd3c-4b7d-b106-fe391557929c" />
 
-![2](images/2.png)
+<img width="1118" height="663" alt="2" src="https://github.com/user-attachments/assets/4378b1c4-9613-44b9-8a68-272a4ea59590" />
 
-![3](images/3.png)
+<img width="698" height="385" alt="3" src="https://github.com/user-attachments/assets/57b3dd20-7b08-4db7-8b09-e32af8231d40" />
 
-![4](images/end.png)
+<img width="1128" height="663" alt="end" src="https://github.com/user-attachments/assets/0c658bc0-fcdd-43ec-9106-58db18b77df4" />
 
 
 
